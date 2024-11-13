@@ -1,4 +1,4 @@
-HACKATHON X UMPSA
+--HACKATHON X UMPSA--
 Group: UNEMPLOYED TECH
 SELF CARE MOBILE APPLICATION
 Introduction In alignment with Sustainable Development Goal 3 (SDG 3) on Health and Well-being, SelfCare is a mobile application designed to foster mental and emotional well-being for users, particularly students and young adults facing daily challenges. The app offers a safe space for users to reflect, manage, and enhance their mental health through features that encourage self-awareness and positive habits. SelfCare provides a versatile journal for recording thoughts and feelings, a chatbox powered by AI for confidential problem-sharing, a mood tracker to help users express their emotions, and a personalised feed of motivational quotes to inspire and uplift. Each feature is crafted to support a holistic approach to self-care, enabling users to explore self-reflection and mental resilience in a user-friendly digital environment.
